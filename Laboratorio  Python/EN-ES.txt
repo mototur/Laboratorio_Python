@@ -1,0 +1,5 @@
+dog=perro
+chair=silla
+table=mesa
+water=agua
+purple=morado
